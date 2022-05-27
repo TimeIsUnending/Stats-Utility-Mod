@@ -1,0 +1,7 @@
+{
+    "name": "Stats_Utility",
+    "version_number": "0.0.1",
+    "website_url": "",
+    "description": "A configurable utility mod to display your current match stats on your hud. ( Work in progress still. Will have more features in the near future... )",
+    "dependencies": []
+}
